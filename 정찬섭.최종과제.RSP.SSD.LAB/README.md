@@ -27,4 +27,4 @@ RSP_SSD_LAB/
     ├── EX_01_Image_Capture.py
     ├── quantize_rps_ssd_lite.py
     └── benchmark_rps_ssd_lite_tflite.py
-...
+```
